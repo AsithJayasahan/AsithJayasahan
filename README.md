@@ -1,17 +1,17 @@
-  <h1 align="center"> Hi there 👋, I'm Stefanos</h1>
+  <h1 align="center"> Hi there 👋, I'm Asith Liyanage</h1>
 <p><a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"></a></p>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
-<pre>💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence &amp; Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
+<pre>💻 I am developing my skills as a BackEnd Developer | Enthuastic about new technologies
+📚 I'm an undergraduate in BICT (Hons) specializing in Software Technologies SEUSL &amp;
+📝 I have a strong interest in building BackEnd Development & Mobile Application Development
 🔭 Working on Shopify Themes and React websites using Gatsby.js
 🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+🌟 Main languages: JavaScript, Python
+🚩 Interested in Application BackEnd development
 </pre>
 <h1 id="tech-stack">💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h1>
 <p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heroku"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"> <img src="https://img.shields.io/badge/sass-firebrick.svg?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="SASS"> <img src="https://img.shields.io/badge/gatsby-%23430098.svg?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" alt="Gatsby"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/NPM-6DA55F.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&amp;logo=pug&amp;logoColor=A86454" alt="Pug"> <img src="https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white" alt="Yarn"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Tensorflow"><img src="https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="Pytorch">
