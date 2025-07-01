@@ -1,38 +1,35 @@
-  <h1 align="center"> Hi there 👋, I'm Stefanos</h1>
-<p><a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"></a></p>
+<h1 align="center"> Hi there 👋, I'm Asith Jayasahan Liyanage</h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
+	<a href="https://github.com/AsithJayasahan">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Laravel+Backend+Developer;Mobile+App+Developer;PHP%20|%20Flutter%20|%20Android+Enthusiast;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
 	</a>
 </p>
-<pre>💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence &amp; Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+<pre>💻 I am a passionate Laravel Backend & Mobile App Developer
+🌱 Currently focusing on improving my skills in Laravel and Flutter
+🚩 Interested in Full Stack Development and Mobile Applications
 </pre>
 <h1 id="tech-stack">💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h1>
-<p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="Heroku"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"> <img src="https://img.shields.io/badge/sass-firebrick.svg?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="SASS"> <img src="https://img.shields.io/badge/gatsby-%23430098.svg?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" alt="Gatsby"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/NPM-6DA55F.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&amp;logo=pug&amp;logoColor=A86454" alt="Pug"> <img src="https://img.shields.io/badge/bootstrap-%23430098.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white" alt="Yarn"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Tensorflow"><img src="https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="Pytorch">
-<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white" alt="Adobe Illustrator"> <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop"><img src="https://img.shields.io/badge/figma-black.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=red" alt="Figma"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></p>
+<p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&amp;logo=Flutter&amp;logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C"> <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white" alt="Adobe Illustrator"> <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop"></p>
+
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
-  </div>
+</div>
 <p align="center">
-<a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg">
+<a href="https://linkedin.com/in/asith liyanage" target="_blank">
+  <img align="center" alt="Asith Jayasahan | Linkedin" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/steve.frontdev/" target="_blank">
-  <img align="center" alt="Stefanos Stamoulis | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg">
+<a href="https://www.instagram.com/asith_jayasahan/" target="_blank">
+  <img align="center" alt="Asith Jayasahan | Instagram" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
 </a> &nbsp;&nbsp;
-<a href="mailto:sstamoulis.wd@gmail.com">
-  <img align="center" alt="Stefanos Stamoulis | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg">
+<a href="mailto:asithjayasahan31@gmail.com">
+  <img align="center" alt="Asith Jayasahan | Gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
 </a> &nbsp;&nbsp;
-</p><p>
-</p><p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsithJayasahan&show_icons=true&locale=en&layout=compact" alt="AsithJayasahan">
+</p>
+
 <hr>
-<p><a href="https://github.com/StefanosSt">StefanosSt</a>
-Last Edited on : 13/08/2023</p> 
+<p><a href="https://github.com/AsithJayasahan">AsithJayasahan</a>
+Last Edited on: 02/07/2025</p>
