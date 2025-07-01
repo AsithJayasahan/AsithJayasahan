@@ -55,7 +55,7 @@
   <h3><b>Let's get in touch! </b></h3>
 </div>
 <p align="center">
-<a href="https://linkedin.com/in/asith liyanage" target="_blank">
+<a href="https://www.linkedin.com/in/asith-liyanage-aa5595201" target="_blank">
   <img align="center" alt="Asith Jayasahan | Linkedin" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/asith_jayasahan/" target="_blank">
